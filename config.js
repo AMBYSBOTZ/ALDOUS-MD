@@ -27,36 +27,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/danibotz_official'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/YTDANIBOTZ'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6281348106274'
+global.sig = 'https://instagram.com/Granger_ambys'
+global.syt = 'https://instragram.com/granger_ambys?igshid=YmMyMTA2M2Y='
+global.sgh = 'https://instragram.com/granger_ambys?igshid=YmMyMTA2M2Y='
+global.sgc = 'https://chat.whatsapp.com/LR8q27mkkihJptchGvpBct'
+global.swa = 'wa.me/6285798267620'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081348106274'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '085798267620'
+global.ppulsa2 = '-'
+global.psaweria = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281352848936'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotzラ'
-global.nameown = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.nomorbot = '6282118221671'
+global.nomorown = '6285798267620'
+global.namebot = 'AMBYS - BOZTラ'
+global.nameown = 'ᴹᴿ᭄ X I A O - S A N ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'ᴹᴿ᭄ DaniXd? ×፝֟͜×', 'true']
+  ['6285798267620', 'ᴹᴿ᭄ XIAO SAN ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [6285798267620] // Want some help?
+global.prems = [6285798267620] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'DaniBotzラ | By ᴹᴿ᭄ DaniXd ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
-global.wm3 = 'DaniBotzラ | By ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.wm = 'UNNAMEDラ | By ᴹᴿ᭄ XIAO SAN ×፝֟͜×' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ X I A O - S A N ×፝֟͜×'
+global.wm3 = 'UNNAMEDラ | By ᴹᴿ᭄ XIAO SAN ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `DaniBotzラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ DaniXd ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.author = 'ᴹᴿ᭄ X I A O - S A N ×፝֟͜×' 
+global.packname = 'ᴹᴿ᭄ X I A O - S A N ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -116,13 +116,13 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya DaniBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.botintro = 'Hallo, Kenalin saya DaniBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ X I A O - S A N ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro ='https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
-global.umurowner = '22'
-global.asalowner = 'Kalimantan, Banjar'
-global.nomorowner = 'wa.me/6281348106274'
+global.nameowner = 'ᴹᴿ᭄ XIAO SAN ×፝֟͜×'
+global.umurowner = '17'
+global.asalowner = 'RAHASIA '
+global.nomorowner = 'wa.me/6285798267620'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
