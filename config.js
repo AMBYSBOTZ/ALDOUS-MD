@@ -61,7 +61,7 @@ global.prems = [6285798267620] // Premium user bukan disini nambahinnya, ketik .
 
 /*============== API ==============*/
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  // name: 'https://neoxr-api.herokuapp.com'
   nrtm: 'https://nurutomo.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
@@ -80,7 +80,7 @@ adiisus: 'https://adiixyzapi.herokuapp.com',
   kanx: 'https://kannxapi.herokuapp.com/'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://neoxr-api.herokuapp.com': 'yntkts'
   'https://api.xteam.xyz': 'cristian9407',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
   'https://api.lolhuman.xyz': 'Xynoz',
@@ -116,7 +116,7 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya DaniBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ X I A O - S A N ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya AMBYS BOTZ Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ X I A O - S A N ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro ='https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'ᴹᴿ᭄ XIAO SAN ×፝֟͜×'
